@@ -1,0 +1,11 @@
+id,area,address,lat,lon,dpd,amount,priority,ptp_today,window,svc
+C001,Tellapur,"12 Main Road, Tellapur, Hyderabad 502032",17.4520,78.2900,95,15000,88,1,09:30-13:00,20
+C002,Tellapur,"45 Lake View Colony, Tellapur, Hyderabad 502032",17.4550,78.2950,60,8000,41,0,10:00-14:00,15
+C003,Gachibowli,"88 Wipro Circle, Gachibowli, Hyderabad 500032",17.4400,78.3480,120,22000,92,1,11:00-16:00,25
+C004,Miyapur,"3 HMT Road, Miyapur, Hyderabad 500049",17.4960,78.3570,45,5000,35,0,09:30-18:00,20
+C005,Kondapur,"21 Kothaguda X Roads, Kondapur, Hyderabad 500084",17.4610,78.3640,80,12000,70,0,12:00-17:00,30
+C006,Madhapur,"7 Cyber Towers Lane, Madhapur, Hyderabad 500081",17.4480,78.3910,30,3000,25,0,09:30-12:00,15
+C007,Hitech,"2 Raheja Mindspace, Hitech City, Hyderabad 500081",17.4430,78.3770,55,9000,55,1,14:00-18:00,20
+C008,Banjara,"15 Road No 12, Banjara Hills, Hyderabad 500034",17.4150,78.4480,100,18000,78,0,10:00-15:00,25
+C009,Secunderabad,"9 SD Road, Secunderabad, Hyderabad 500003",17.4390,78.4980,70,11000,62,0,09:30-16:00,20
+C010,Uppal,"33 Uppal X Roads, Hyderabad 500039",17.4010,78.5590,40,4000,30,0,13:00-18:00,15

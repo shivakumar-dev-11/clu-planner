@@ -1,0 +1,4 @@
+executive_id,office_name,office_address,home_lat,home_lon,shift_start,shift_end,max_visits,max_km
+E01,CLU Tellapur Office,"Survey No 42, Tellapur Main Road, Hyderabad 502032",17.4586,78.2836,09:30,18:00,10,70
+E02,CLU Gachibowli Office,"Wipro Circle, Gachibowli, Hyderabad 500032",17.4400,78.3500,09:00,18:30,8,65
+E03,CLU Uppal Office,"Uppal X Roads, Hyderabad 500039",17.3900,78.4900,10:00,19:00,10,80

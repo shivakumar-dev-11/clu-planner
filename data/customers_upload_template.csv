@@ -1,0 +1,3 @@
+id,area,address,lat,lon,priority,ptp_today,window,svc
+C001,Tellapur,"12 Main Road, Tellapur, Hyderabad",17.4520,78.2900,88,1,09:30-13:00,20
+C002,Gachibowli,"88 Wipro Circle, Gachibowli",17.4400,78.3480,70,0,10:00-16:00,25

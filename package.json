@@ -1,0 +1,11 @@
+{
+  "name": "clu-daily-visit-planner",
+  "private": true,
+  "description": "Python Streamlit app — use npm scripts as shortcuts only",
+  "scripts": {
+    "dev": "STREAMLIT_BROWSER_GATHER_USAGE_STATS=false .venv/bin/streamlit run app.py --server.headless=true --server.port=8501",
+    "dev:8502": "STREAMLIT_BROWSER_GATHER_USAGE_STATS=false .venv/bin/streamlit run app.py --server.headless=true --server.port=8502",
+    "test": ".venv/bin/pytest tests/ -q",
+    "setup": "python3 -m venv .venv && .venv/bin/pip install -r requirements.txt"
+  }
+}
